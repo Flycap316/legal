@@ -1,0 +1,8 @@
+title: Project Awesome Mobile - Legal
+description: Privacy Policy, Terms of Service and account deletion for Project Awesome Mobile by Cool and Unusual Studio
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+permalink: pretty
