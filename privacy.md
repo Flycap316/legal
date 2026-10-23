@@ -19,14 +19,23 @@ This policy explains how Cool and Unusual Studio ("we", "us"), doing business as
 The Game is for adults aged 18 and over. Before you can create an account, we ask for your date of birth. If you are under 18, you cannot create an account, and we do not keep the date of birth you entered. We do not knowingly collect personal data from anyone under 18. If we learn that we have, we will delete it. Contact us at lenn@coolunusualstudio.com if you believe a minor has an account.
 
 ## 2. Data we collect
+
 | Category | Examples | Source |
+
 |---|---|---|
+
 | Account data | Player ID, sign-in method (e.g. Unity Player Accounts, Apple, Google, or anonymous/device sign-in), email address if you provide one, date of birth | You; sign-in provider |
+
 | Profile and social data | Display name, avatar or house customisation, leaderboard scores, PvP match results, reports and blocks you make or receive | You; gameplay |
+
 | Game data | Save data, progress, inventory, virtual currency ("Bucks") balances, earned loot box rewards | Gameplay (stored with Unity Cloud Save and Economy) |
+
 | Device and technical data | Installation ID, device model, OS version, IP address, crash and diagnostic logs, IDFV | Your device; Unity SDKs |
+
 | Advertising data (only if you choose to watch rewarded ads) | Advertising ID (IDFA/AAID) where permitted, ad interaction data, approximate location from IP | Ad partner SDK (not yet enabled; see section 4) |
+
 | Purchase data (pre-launch: not yet available) | Transaction ID, item purchased, price, subscription status. We do **not** receive your full card number | Apple, Google, Steam |
+
 | Support data | Messages you send us | You |
 
 The first playable uses placeholder in-game money only. It processes no real payments.
